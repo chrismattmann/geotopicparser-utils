@@ -1,6 +1,5 @@
 GeoTopicParser Utilities
 ========================
-
 This repository contains Named Entity Recognition (NER) models for location data 
 forked and augmented from the [Apache OpenNLP](http://opennlp.apache.org/) project,
 trained against the [NSF Polar CyberInfrastructure](http://github.com/chrismattmann/trec-dd-polar)
@@ -20,6 +19,19 @@ Contributors
 ============
 * Yun Li, USC
 * Chris A. Mattmann, JPL
+
+Credits
+=======
+This project began as the [CSCI 572](http://sunset.usc.edu/classes/cs572_2015/) 
+project of [Yun Li](https://github.com/AranyaLi) on the NSF Polar CyberInfrastructure
+project at USC under the supervision of Chris Mattmann. You can find Yun's original
+code base [here](https://github.com/AranyaLi/GeoParsingNSF).
+
+This work was sponsored by the [National Science Foundation](http://www.nsf.gov/) 
+under funded projects 
+[PLR-1348450](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1348450&HistoricalAwards=false) 
+and [PLR-144562](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1445624&HistoricalAwards=false).
+
 
 License
 =======
